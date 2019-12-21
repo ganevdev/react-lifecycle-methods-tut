@@ -9,3 +9,17 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+button {
+  margin: 10px;
+  background-color: white;
+  color: black;
+  width: 140px;
+  height: 40px;
+  border: none;
+  cursor: pointer;
+}
+
+.lifecycles {
+  margin-top: 20px;
+}
